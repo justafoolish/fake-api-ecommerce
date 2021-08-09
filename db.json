@@ -65,6 +65,94 @@
       ],
       "createdAt": 1628520297044,
       "id": 6
+    },
+    {
+      "name": "Hades Red Tee",
+      "categoryID": 1,
+      "colorID": 3,
+      "imgURL": [
+        "https://i.ibb.co/0DYGnfj/t1a.png",
+        "https://i.ibb.co/mSkS6ds/t1b.png"
+      ],
+      "createdAt": 1628520931290,
+      "id": 7
+    },
+    {
+      "name": "TSUN Red Tee",
+      "categoryID": 1,
+      "colorID": 3,
+      "imgURL": [
+        "https://i.ibb.co/QHTxBN6/t2a.png",
+        "https://i.ibb.co/hRqVGtF/t2b.png"
+      ],
+      "createdAt": 1628520991840,
+      "id": 8
+    },
+    {
+      "name": "Hades Black Tee",
+      "categoryID": 1,
+      "colorID": 1,
+      "imgURL": [
+        "https://i.ibb.co/GFX364g/t3a.png",
+        "https://i.ibb.co/6ZH3v5L/t3b.png"
+      ],
+      "createdAt": 1628521058708,
+      "id": 9
+    },
+    {
+      "name": "Hades RedWolf Tee",
+      "categoryID": 1,
+      "colorID": 1,
+      "imgURL": [
+        "https://i.ibb.co/tDdHQnX/t4a.png",
+        "https://i.ibb.co/gZvwYWq/t4b.png"
+      ],
+      "createdAt": 1628521117987,
+      "id": 10
+    },
+    {
+      "name": "TSUN StayFresh Tee",
+      "categoryID": 1,
+      "colorID": 4,
+      "imgURL": [
+        "https://i.ibb.co/D8Hbg6R/t5a.png",
+        "https://i.ibb.co/MM9XwHn/t5b.png"
+      ],
+      "createdAt": 1628521200723,
+      "id": 11
+    },
+    {
+      "name": "Hades BlackWolf White Tee",
+      "categoryID": 1,
+      "colorID": 2,
+      "imgURL": [
+        "https://i.ibb.co/RSGLmrn/t6a.png",
+        "https://i.ibb.co/sWSfXdv/t6b.png"
+      ],
+      "createdAt": 1628521248801,
+      "id": 12
+    },
+    {
+      "name": "TSUN StayFresh Blue Tee",
+      "categoryID": 1,
+      "colorID": 7,
+      "imgURL": [
+        "https://i.ibb.co/wz6WDsd/t7a.png",
+        "https://i.ibb.co/hBRJ63k/t7b.png"
+      ],
+      "createdAt": 1628521420102,
+      "id": 13
+    },
+    {
+      "name": "TSUN Tiedye Violet Tee",
+      "categoryID": 1,
+      "colorID": 5,
+      "imgURL": [
+        "https://i.ibb.co/Mp9Mp9Z/t8a.png",
+        "https://i.ibb.co/pWjwV7y/t8b.png"
+      ],
+      "createdAt": 1628521561790,
+      "id": 14
     }
   ],
   "categories": [

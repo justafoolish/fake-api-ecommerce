@@ -1,5 +1,5 @@
 
-GET http://localhost/api/categories
+GET http://localhost/api/colors
 ###
 # @name addnewCateogory
 POST http://localhost/api/categories
@@ -13,9 +13,10 @@ POST http://localhost/api/products
 Content-Type: application/json
 
 {
-    "name": "DirtyCoins Red Sweater",
-    "categoryID": 2,
-    "colorID": 3,
+    "name": "Hades BlackWolf White Tee",
+    "categoryID": 1,
+    "colorID": 2,
+    "imgURL": ["https://i.ibb.co/RSGLmrn/t6a.png","https://i.ibb.co/sWSfXdv/t6b.png"]
 }
 
 ### 
@@ -24,13 +25,5 @@ Content-Type: application/json
 
 {
     "name": "Yellow"    
-}
-### 
-POST http://localhost/api/products
-Content-Type: application/json
-
-{
-    "name": "test",
-    "categoryID": "1"
 }
 
