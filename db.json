@@ -2,6 +2,9 @@
   "products": [
     {
       "name": "DirtyCoins Red Sweater",
+      "price": 370000,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "sold": 10,
       "categoryID": "Sweater",
       "colorID": "Red",
       "imgURL": ["https://i.ibb.co/qpcYJ0M/s1a.png", "https://i.ibb.co/yBvbw1H/s1b.png"],
@@ -10,6 +13,9 @@
     },
     {
       "name": "SpaceDonut Blue Sweater",
+      "price": 330000,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "sold": 15,
       "categoryID": "Sweater",
       "colorID": "Blue",
       "imgURL": ["https://i.ibb.co/JvDZkGm/s2a.png", "https://i.ibb.co/xm1k4CM/s2b.png"],
@@ -18,6 +24,9 @@
     },
     {
       "name": "SpaceDonut Pink Sweater",
+      "price": 330000,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "sold": 2,
       "categoryID": "Sweater",
       "colorID": "Pink",
       "imgURL": ["https://i.ibb.co/899h1NK/s3a.png", "https://i.ibb.co/QNshf0d/s3b.png"],
@@ -26,6 +35,9 @@
     },
     {
       "name": "DirtyCoins Yellow Sweater",
+      "price": 370000,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "sold": 5,
       "categoryID": "Sweater",
       "colorID": "Yellow",
       "imgURL": ["https://i.ibb.co/CBLf6pN/s4a.png", "https://i.ibb.co/WVcsFWP/s4b.png"],
@@ -34,6 +46,9 @@
     },
     {
       "name": "TSUN Kid Sweater",
+      "price": 355000,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "sold": 7,
       "categoryID": "Sweater",
       "colorID": "Black",
       "imgURL": ["https://i.ibb.co/grT299v/s5a.png", "https://i.ibb.co/kGnxHwd/s5b.png"],
@@ -42,6 +57,9 @@
     },
     {
       "name": "SpaceDonut Violet Sweater",
+      "price": 330000,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "sold": 20,
       "categoryID": "Sweater",
       "colorID": "Violet",
       "imgURL": ["https://i.ibb.co/Sv1tjhz/s6a.png", "https://i.ibb.co/Tqd9VNQ/s6b.png"],
@@ -50,6 +68,9 @@
     },
     {
       "name": "Hades Red Tee",
+      "price": 190000,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "sold": 40,
       "categoryID": "Tee",
       "colorID": "Red",
       "imgURL": ["https://i.ibb.co/0DYGnfj/t1a.png", "https://i.ibb.co/mSkS6ds/t1b.png"],
@@ -58,6 +79,9 @@
     },
     {
       "name": "TSUN Red Tee",
+      "price": 195000,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "sold": 80,
       "categoryID": "Tee",
       "colorID": "Red",
       "imgURL": ["https://i.ibb.co/QHTxBN6/t2a.png", "https://i.ibb.co/hRqVGtF/t2b.png"],
@@ -66,6 +90,9 @@
     },
     {
       "name": "Hades Black Tee",
+      "price": 190000,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "sold": 15,
       "categoryID": "Tee",
       "colorID": "Black",
       "imgURL": ["https://i.ibb.co/GFX364g/t3a.png", "https://i.ibb.co/6ZH3v5L/t3b.png"],
@@ -74,6 +101,9 @@
     },
     {
       "name": "Hades RedWolf Tee",
+      "price": 190000,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "sold": 14,
       "categoryID": "Tee",
       "colorID": "Black",
       "imgURL": ["https://i.ibb.co/tDdHQnX/t4a.png", "https://i.ibb.co/gZvwYWq/t4b.png"],
@@ -82,6 +112,9 @@
     },
     {
       "name": "TSUN StayFresh Tee",
+      "price": 195000,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "sold": 22,
       "categoryID": "Tee",
       "colorID": "Orange",
       "imgURL": ["https://i.ibb.co/D8Hbg6R/t5a.png", "https://i.ibb.co/MM9XwHn/t5b.png"],
@@ -90,6 +123,9 @@
     },
     {
       "name": "Hades BlackWolf White Tee",
+      "price": 190000,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "sold": 32,
       "categoryID": "Tee",
       "colorID": "White",
       "imgURL": ["https://i.ibb.co/RSGLmrn/t6a.png", "https://i.ibb.co/sWSfXdv/t6b.png"],
@@ -98,6 +134,9 @@
     },
     {
       "name": "TSUN StayFresh Blue Tee",
+      "price": 195000,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "sold": 45,
       "categoryID": "Tee",
       "colorID": "Blue",
       "imgURL": ["https://i.ibb.co/wz6WDsd/t7a.png", "https://i.ibb.co/hBRJ63k/t7b.png"],
@@ -106,6 +145,9 @@
     },
     {
       "name": "TSUN Tiedye Violet Tee",
+      "price": 195000,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "sold": 43,
       "categoryID": "Tee",
       "colorID": "Violet",
       "imgURL": ["https://i.ibb.co/Mp9Mp9Z/t8a.png", "https://i.ibb.co/pWjwV7y/t8b.png"],
@@ -114,6 +156,9 @@
     },
     {
       "name": "DirtyCoins White Pant",
+      "price": 470000,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "sold": 56,
       "categoryID": "Pant",
       "colorID": "White",
       "imgURL": ["https://i.ibb.co/mN3rH0F/p1a.png", "https://i.ibb.co/3sw45hg/p1b.png"],
@@ -122,6 +167,9 @@
     },
     {
       "name": "DirtyCoins Blue Pant",
+      "price": 470000,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "sold": 19,
       "categoryID": "Pant",
       "colorID": "Blue",
       "imgURL": ["https://i.ibb.co/SNfPPGk/p2a.png", "https://i.ibb.co/2nWrhMK/p2b.png"],
@@ -130,6 +178,9 @@
     },
     {
       "name": "DirtyCoins Black Pant",
+      "price": 470000,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "sold": 21,
       "categoryID": "Pant",
       "colorID": "Black",
       "imgURL": ["https://i.ibb.co/D4Wnnvc/p3a.png", "https://i.ibb.co/cbNK0Yw/p3b.png"],
@@ -138,6 +189,9 @@
     },
     {
       "name": "DirtyCoins Red Pant",
+      "price": 470000,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "sold": 22,
       "categoryID": "Pant",
       "colorID": "Red",
       "imgURL": ["https://i.ibb.co/XZsXxkk/p4a.png", "https://i.ibb.co/1zfGSnm/p4b.png"],
@@ -146,6 +200,9 @@
     },
     {
       "name": "DirtyCoins Yellow Pant",
+      "price": 470000,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "sold": 47,
       "categoryID": "Pant",
       "colorID": "Yellow",
       "imgURL": ["https://i.ibb.co/pnsWwsp/p5a.png", "https://i.ibb.co/hKbg9dy/p5b.png"],
@@ -154,6 +211,9 @@
     },
     {
       "name": "TSUN Orchid Black Hoodie",
+      "price": 205000,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "sold": 78,
       "categoryID": "Hoodie",
       "colorID": "Black",
       "imgURL": ["https://i.ibb.co/3ftVfDp/h1a.png", "https://i.ibb.co/xLny4Kp/h1b.png"],
@@ -162,6 +222,9 @@
     },
     {
       "name": "TSUN Orchid Gray Hoodie",
+      "price": 205000,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "sold": 46,
       "categoryID": "Hoodie",
       "colorID": "White",
       "imgURL": ["https://i.ibb.co/rQqgCcj/h2a.png", "https://i.ibb.co/D5zg3j0/h2b.png"],
@@ -170,6 +233,9 @@
     },
     {
       "name": "TSUN Orchid Cyan Hoodie",
+      "price": 205000,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "sold": 56,
       "categoryID": "Hoodie",
       "colorID": "Blue",
       "imgURL": ["https://i.ibb.co/rtxfVVM/h4a.png", "https://i.ibb.co/rbqVSqX/h4b.png"],
@@ -178,6 +244,9 @@
     },
     {
       "name": "DirtyCoins Violet Hoodie",
+      "price": 270000,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "sold": 32,
       "categoryID": "Hoodie",
       "colorID": "Blue",
       "imgURL": ["https://i.ibb.co/RNtq4L7/h3a.png", "https://i.ibb.co/8mWW0JH/h3b.png"],
@@ -186,6 +255,9 @@
     },
     {
       "name": "DirtyCoins White Hoodie",
+      "price": 270000,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "sold": 19,
       "categoryID": "Hoodie",
       "colorID": "White",
       "imgURL": ["https://i.ibb.co/QXQhdhc/h5a.png", "https://i.ibb.co/VVfFW9C/h5b.png"],
