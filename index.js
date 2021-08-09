@@ -25,7 +25,7 @@ server.use((req, res, next) => {
 // Use default router
 const PORT = process.env.PORT || 80;
 
-server.use(router);
+server.use("/api", router);
 server.listen(PORT, () => {
   console.log("JSON Server is running");
 });

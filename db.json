@@ -1,8 +1,134 @@
 {
+  "products": [
+    {
+      "name": "DirtyCoins Red Sweater",
+      "categoryID": 2,
+      "colorID": 3,
+      "imgURL": [
+        "https://i.ibb.co/qpcYJ0M/s1a.png",
+        "https://i.ibb.co/yBvbw1H/s1b.png"
+      ],
+      "createdAt": 1628519939066,
+      "id": 1
+    },
+    {
+      "name": "SpaceDonut Blue Sweater",
+      "categoryID": 2,
+      "colorID": 7,
+      "imgURL": [
+        "https://i.ibb.co/JvDZkGm/s2a.png",
+        "https://i.ibb.co/xm1k4CM/s2b.png"
+      ],
+      "createdAt": 1628520035716,
+      "id": 2
+    },
+    {
+      "name": "SpaceDonut Pink Sweater",
+      "categoryID": 2,
+      "colorID": 6,
+      "imgURL": [
+        "https://i.ibb.co/899h1NK/s3a.png",
+        "https://i.ibb.co/QNshf0d/s3b.png"
+      ],
+      "createdAt": 1628520108705,
+      "id": 3
+    },
+    {
+      "name": "DirtyCoins Yellow Sweater",
+      "categoryID": 2,
+      "colorID": 8,
+      "imgURL": [
+        "https://i.ibb.co/CBLf6pN/s4a.png",
+        "https://i.ibb.co/WVcsFWP/s4b.png"
+      ],
+      "createdAt": 1628520190240,
+      "id": 4
+    },
+    {
+      "name": "TSUN Kid Sweater",
+      "categoryID": 2,
+      "colorID": 1,
+      "imgURL": [
+        "https://i.ibb.co/grT299v/s5a.png",
+        "https://i.ibb.co/kGnxHwd/s5b.png"
+      ],
+      "createdAt": 1628520245232,
+      "id": 5
+    },
+    {
+      "name": "SpaceDonut Violet Sweater",
+      "categoryID": 2,
+      "colorID": 5,
+      "imgURL": [
+        "https://i.ibb.co/Sv1tjhz/s6a.png",
+        "https://i.ibb.co/Tqd9VNQ/s6b.png"
+      ],
+      "createdAt": 1628520297044,
+      "id": 6
+    }
+  ],
   "categories": [
-    { "id": 1, "name": "Jackets" },
-    { "id": 2, "name": "Pants" },
-    { "id": 3, "name": "T-Shirt" },
-    { "id": 4, "name": "Hoodie" }
+    {
+      "name": "Tee",
+      "createdAt": 1628516899996,
+      "id": 1
+    },
+    {
+      "name": "Sweater",
+      "createdAt": 1628516927969,
+      "id": 2
+    },
+    {
+      "name": "Pant",
+      "createdAt": 1628516934361,
+      "id": 3
+    },
+    {
+      "name": "Hoodie",
+      "createdAt": 1628516942584,
+      "id": 4
+    }
+  ],
+  "colors": [
+    {
+      "name": "Black",
+      "createdAt": 1628517070772,
+      "id": 1
+    },
+    {
+      "name": "White",
+      "createdAt": 1628517079002,
+      "id": 2
+    },
+    {
+      "name": "Red",
+      "createdAt": 1628517085876,
+      "id": 3
+    },
+    {
+      "name": "Orange",
+      "createdAt": 1628517098460,
+      "id": 4
+    },
+    {
+      "name": "Violet",
+      "createdAt": 1628517108714,
+      "id": 5
+    },
+    {
+      "name": "Pink",
+      "createdAt": 1628517155498,
+      "id": 6
+    },
+    {
+      "name": "Blue",
+      "createdAt": 1628517166591,
+      "id": 7
+    },
+    {
+      "name": "Yellow",
+      "createdAt": 1628517181730,
+      "id": 8
+    }
   ]
 }

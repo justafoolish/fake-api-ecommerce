@@ -1,0 +1,36 @@
+
+GET http://localhost/api/categories
+###
+# @name addnewCateogory
+POST http://localhost/api/categories
+Content-Type: application/json
+
+{
+    "name": "Hoodie"
+}
+###
+POST http://localhost/api/products
+Content-Type: application/json
+
+{
+    "name": "DirtyCoins Red Sweater",
+    "categoryID": 2,
+    "colorID": 3,
+}
+
+### 
+POST http://localhost/api/colors 
+Content-Type: application/json
+
+{
+    "name": "Yellow"    
+}
+### 
+POST http://localhost/api/products
+Content-Type: application/json
+
+{
+    "name": "test",
+    "categoryID": "1"
+}
+
