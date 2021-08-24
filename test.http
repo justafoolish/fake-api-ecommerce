@@ -13,10 +13,10 @@ POST http://localhost/api/products
 Content-Type: application/json
 
 {
-    "name": "Hades BlackWolf White Tee",
-    "categoryID": 1,
+    "name": "DirtyCoins White Hoodie",
+    "categoryID": 4,
     "colorID": 2,
-    "imgURL": ["https://i.ibb.co/RSGLmrn/t6a.png","https://i.ibb.co/sWSfXdv/t6b.png"]
+    "imgURL": ["https://i.ibb.co/QXQhdhc/h5a.png","https://i.ibb.co/VVfFW9C/h5b.png"]
 }
 
 ### 
@@ -27,3 +27,10 @@ Content-Type: application/json
     "name": "Yellow"    
 }
 
+################################
+DELETE http://localhost/api/categories 
+Content-Type: application/json
+
+{
+    "id": "5"
+}

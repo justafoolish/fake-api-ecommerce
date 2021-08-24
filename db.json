@@ -5,9 +5,12 @@
       "price": 370000,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "sold": 10,
-      "categoryID": "Sweater",
-      "colorID": "Red",
-      "imgURL": ["https://i.ibb.co/qpcYJ0M/s1a.png", "https://i.ibb.co/yBvbw1H/s1b.png"],
+      "category": "Sweater",
+      "color": "Red",
+      "imgURL": [
+        "https://i.ibb.co/qpcYJ0M/s1a.png",
+        "https://i.ibb.co/yBvbw1H/s1b.png"
+      ],
       "createdAt": 1628519939066,
       "id": 1
     },
@@ -16,9 +19,12 @@
       "price": 330000,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "sold": 15,
-      "categoryID": "Sweater",
-      "colorID": "Blue",
-      "imgURL": ["https://i.ibb.co/JvDZkGm/s2a.png", "https://i.ibb.co/xm1k4CM/s2b.png"],
+      "category": "Sweater",
+      "color": "Blue",
+      "imgURL": [
+        "https://i.ibb.co/JvDZkGm/s2a.png",
+        "https://i.ibb.co/xm1k4CM/s2b.png"
+      ],
       "createdAt": 1628520035716,
       "id": 2
     },
@@ -27,9 +33,12 @@
       "price": 330000,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "sold": 2,
-      "categoryID": "Sweater",
-      "colorID": "Pink",
-      "imgURL": ["https://i.ibb.co/899h1NK/s3a.png", "https://i.ibb.co/QNshf0d/s3b.png"],
+      "category": "Sweater",
+      "color": "Pink",
+      "imgURL": [
+        "https://i.ibb.co/899h1NK/s3a.png",
+        "https://i.ibb.co/QNshf0d/s3b.png"
+      ],
       "createdAt": 1628520108705,
       "id": 3
     },
@@ -38,9 +47,12 @@
       "price": 370000,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "sold": 5,
-      "categoryID": "Sweater",
-      "colorID": "Yellow",
-      "imgURL": ["https://i.ibb.co/CBLf6pN/s4a.png", "https://i.ibb.co/WVcsFWP/s4b.png"],
+      "category": "Sweater",
+      "color": "Yellow",
+      "imgURL": [
+        "https://i.ibb.co/CBLf6pN/s4a.png",
+        "https://i.ibb.co/WVcsFWP/s4b.png"
+      ],
       "createdAt": 1628520190240,
       "id": 4
     },
@@ -49,9 +61,12 @@
       "price": 355000,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "sold": 7,
-      "categoryID": "Sweater",
-      "colorID": "Black",
-      "imgURL": ["https://i.ibb.co/grT299v/s5a.png", "https://i.ibb.co/kGnxHwd/s5b.png"],
+      "category": "Sweater",
+      "color": "Black",
+      "imgURL": [
+        "https://i.ibb.co/grT299v/s5a.png",
+        "https://i.ibb.co/kGnxHwd/s5b.png"
+      ],
       "createdAt": 1628520245232,
       "id": 5
     },
@@ -60,9 +75,12 @@
       "price": 330000,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "sold": 20,
-      "categoryID": "Sweater",
-      "colorID": "Violet",
-      "imgURL": ["https://i.ibb.co/Sv1tjhz/s6a.png", "https://i.ibb.co/Tqd9VNQ/s6b.png"],
+      "category": "Sweater",
+      "color": "Violet",
+      "imgURL": [
+        "https://i.ibb.co/Sv1tjhz/s6a.png",
+        "https://i.ibb.co/Tqd9VNQ/s6b.png"
+      ],
       "createdAt": 1628520297044,
       "id": 6
     },
@@ -71,9 +89,12 @@
       "price": 190000,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "sold": 40,
-      "categoryID": "Tee",
-      "colorID": "Red",
-      "imgURL": ["https://i.ibb.co/0DYGnfj/t1a.png", "https://i.ibb.co/mSkS6ds/t1b.png"],
+      "category": "Tee",
+      "color": "Red",
+      "imgURL": [
+        "https://i.ibb.co/0DYGnfj/t1a.png",
+        "https://i.ibb.co/mSkS6ds/t1b.png"
+      ],
       "createdAt": 1628520931290,
       "id": 7
     },
@@ -82,9 +103,12 @@
       "price": 195000,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "sold": 80,
-      "categoryID": "Tee",
-      "colorID": "Red",
-      "imgURL": ["https://i.ibb.co/QHTxBN6/t2a.png", "https://i.ibb.co/hRqVGtF/t2b.png"],
+      "category": "Tee",
+      "color": "Red",
+      "imgURL": [
+        "https://i.ibb.co/QHTxBN6/t2a.png",
+        "https://i.ibb.co/hRqVGtF/t2b.png"
+      ],
       "createdAt": 1628520991840,
       "id": 8
     },
@@ -93,9 +117,12 @@
       "price": 190000,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "sold": 15,
-      "categoryID": "Tee",
-      "colorID": "Black",
-      "imgURL": ["https://i.ibb.co/GFX364g/t3a.png", "https://i.ibb.co/6ZH3v5L/t3b.png"],
+      "category": "Tee",
+      "color": "Black",
+      "imgURL": [
+        "https://i.ibb.co/GFX364g/t3a.png",
+        "https://i.ibb.co/6ZH3v5L/t3b.png"
+      ],
       "createdAt": 1628521058708,
       "id": 9
     },
@@ -104,9 +131,12 @@
       "price": 190000,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "sold": 14,
-      "categoryID": "Tee",
-      "colorID": "Black",
-      "imgURL": ["https://i.ibb.co/tDdHQnX/t4a.png", "https://i.ibb.co/gZvwYWq/t4b.png"],
+      "category": "Tee",
+      "color": "Black",
+      "imgURL": [
+        "https://i.ibb.co/tDdHQnX/t4a.png",
+        "https://i.ibb.co/gZvwYWq/t4b.png"
+      ],
       "createdAt": 1628521117987,
       "id": 10
     },
@@ -115,9 +145,12 @@
       "price": 195000,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "sold": 22,
-      "categoryID": "Tee",
-      "colorID": "Orange",
-      "imgURL": ["https://i.ibb.co/D8Hbg6R/t5a.png", "https://i.ibb.co/MM9XwHn/t5b.png"],
+      "category": "Tee",
+      "color": "Orange",
+      "imgURL": [
+        "https://i.ibb.co/D8Hbg6R/t5a.png",
+        "https://i.ibb.co/MM9XwHn/t5b.png"
+      ],
       "createdAt": 1628521200723,
       "id": 11
     },
@@ -126,9 +159,12 @@
       "price": 190000,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "sold": 32,
-      "categoryID": "Tee",
-      "colorID": "White",
-      "imgURL": ["https://i.ibb.co/RSGLmrn/t6a.png", "https://i.ibb.co/sWSfXdv/t6b.png"],
+      "category": "Tee",
+      "color": "White",
+      "imgURL": [
+        "https://i.ibb.co/RSGLmrn/t6a.png",
+        "https://i.ibb.co/sWSfXdv/t6b.png"
+      ],
       "createdAt": 1628521248801,
       "id": 12
     },
@@ -137,9 +173,12 @@
       "price": 195000,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "sold": 45,
-      "categoryID": "Tee",
-      "colorID": "Blue",
-      "imgURL": ["https://i.ibb.co/wz6WDsd/t7a.png", "https://i.ibb.co/hBRJ63k/t7b.png"],
+      "category": "Tee",
+      "color": "Blue",
+      "imgURL": [
+        "https://i.ibb.co/wz6WDsd/t7a.png",
+        "https://i.ibb.co/hBRJ63k/t7b.png"
+      ],
       "createdAt": 1628521420102,
       "id": 13
     },
@@ -148,9 +187,12 @@
       "price": 195000,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "sold": 43,
-      "categoryID": "Tee",
-      "colorID": "Violet",
-      "imgURL": ["https://i.ibb.co/Mp9Mp9Z/t8a.png", "https://i.ibb.co/pWjwV7y/t8b.png"],
+      "category": "Tee",
+      "color": "Violet",
+      "imgURL": [
+        "https://i.ibb.co/Mp9Mp9Z/t8a.png",
+        "https://i.ibb.co/pWjwV7y/t8b.png"
+      ],
       "createdAt": 1628521561790,
       "id": 14
     },
@@ -159,9 +201,12 @@
       "price": 470000,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "sold": 56,
-      "categoryID": "Pant",
-      "colorID": "White",
-      "imgURL": ["https://i.ibb.co/mN3rH0F/p1a.png", "https://i.ibb.co/3sw45hg/p1b.png"],
+      "category": "Pant",
+      "color": "White",
+      "imgURL": [
+        "https://i.ibb.co/mN3rH0F/p1a.png",
+        "https://i.ibb.co/3sw45hg/p1b.png"
+      ],
       "createdAt": 1628521918425,
       "id": 15
     },
@@ -170,9 +215,12 @@
       "price": 470000,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "sold": 19,
-      "categoryID": "Pant",
-      "colorID": "Blue",
-      "imgURL": ["https://i.ibb.co/SNfPPGk/p2a.png", "https://i.ibb.co/2nWrhMK/p2b.png"],
+      "category": "Pant",
+      "color": "Blue",
+      "imgURL": [
+        "https://i.ibb.co/SNfPPGk/p2a.png",
+        "https://i.ibb.co/2nWrhMK/p2b.png"
+      ],
       "createdAt": 1628521999859,
       "id": 16
     },
@@ -181,9 +229,12 @@
       "price": 470000,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "sold": 21,
-      "categoryID": "Pant",
-      "colorID": "Black",
-      "imgURL": ["https://i.ibb.co/D4Wnnvc/p3a.png", "https://i.ibb.co/cbNK0Yw/p3b.png"],
+      "category": "Pant",
+      "color": "Black",
+      "imgURL": [
+        "https://i.ibb.co/D4Wnnvc/p3a.png",
+        "https://i.ibb.co/cbNK0Yw/p3b.png"
+      ],
       "createdAt": 1628522028903,
       "id": 17
     },
@@ -192,9 +243,12 @@
       "price": 470000,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "sold": 22,
-      "categoryID": "Pant",
-      "colorID": "Red",
-      "imgURL": ["https://i.ibb.co/XZsXxkk/p4a.png", "https://i.ibb.co/1zfGSnm/p4b.png"],
+      "category": "Pant",
+      "color": "Red",
+      "imgURL": [
+        "https://i.ibb.co/XZsXxkk/p4a.png",
+        "https://i.ibb.co/1zfGSnm/p4b.png"
+      ],
       "createdAt": 1628522074384,
       "id": 18
     },
@@ -203,9 +257,12 @@
       "price": 470000,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "sold": 47,
-      "categoryID": "Pant",
-      "colorID": "Yellow",
-      "imgURL": ["https://i.ibb.co/pnsWwsp/p5a.png", "https://i.ibb.co/hKbg9dy/p5b.png"],
+      "category": "Pant",
+      "color": "Yellow",
+      "imgURL": [
+        "https://i.ibb.co/pnsWwsp/p5a.png",
+        "https://i.ibb.co/hKbg9dy/p5b.png"
+      ],
       "createdAt": 1628522115313,
       "id": 19
     },
@@ -214,9 +271,12 @@
       "price": 205000,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "sold": 78,
-      "categoryID": "Hoodie",
-      "colorID": "Black",
-      "imgURL": ["https://i.ibb.co/3ftVfDp/h1a.png", "https://i.ibb.co/xLny4Kp/h1b.png"],
+      "category": "Hoodie",
+      "color": "Black",
+      "imgURL": [
+        "https://i.ibb.co/3ftVfDp/h1a.png",
+        "https://i.ibb.co/xLny4Kp/h1b.png"
+      ],
       "createdAt": 1628522245122,
       "id": 20
     },
@@ -225,9 +285,12 @@
       "price": 205000,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "sold": 46,
-      "categoryID": "Hoodie",
-      "colorID": "White",
-      "imgURL": ["https://i.ibb.co/rQqgCcj/h2a.png", "https://i.ibb.co/D5zg3j0/h2b.png"],
+      "category": "Hoodie",
+      "color": "White",
+      "imgURL": [
+        "https://i.ibb.co/rQqgCcj/h2a.png",
+        "https://i.ibb.co/D5zg3j0/h2b.png"
+      ],
       "createdAt": 1628522297068,
       "id": 21
     },
@@ -236,9 +299,12 @@
       "price": 205000,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "sold": 56,
-      "categoryID": "Hoodie",
-      "colorID": "Blue",
-      "imgURL": ["https://i.ibb.co/rtxfVVM/h4a.png", "https://i.ibb.co/rbqVSqX/h4b.png"],
+      "category": "Hoodie",
+      "color": "Blue",
+      "imgURL": [
+        "https://i.ibb.co/rtxfVVM/h4a.png",
+        "https://i.ibb.co/rbqVSqX/h4b.png"
+      ],
       "createdAt": 1628522337434,
       "id": 22
     },
@@ -247,9 +313,12 @@
       "price": 270000,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "sold": 32,
-      "categoryID": "Hoodie",
-      "colorID": "Blue",
-      "imgURL": ["https://i.ibb.co/RNtq4L7/h3a.png", "https://i.ibb.co/8mWW0JH/h3b.png"],
+      "category": "Hoodie",
+      "color": "Blue",
+      "imgURL": [
+        "https://i.ibb.co/RNtq4L7/h3a.png",
+        "https://i.ibb.co/8mWW0JH/h3b.png"
+      ],
       "createdAt": 1628522380911,
       "id": 23
     },
@@ -258,11 +327,78 @@
       "price": 270000,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "sold": 19,
-      "categoryID": "Hoodie",
-      "colorID": "White",
-      "imgURL": ["https://i.ibb.co/QXQhdhc/h5a.png", "https://i.ibb.co/VVfFW9C/h5b.png"],
+      "category": "Hoodie",
+      "color": "White",
+      "imgURL": [
+        "https://i.ibb.co/QXQhdhc/h5a.png",
+        "https://i.ibb.co/VVfFW9C/h5b.png"
+      ],
       "createdAt": 1628522428387,
       "id": 24
+    }
+  ],
+  "categories": [
+    {
+      "name": "Hoodie",
+      "createdAt": 1629816180110,
+      "id": 1
+    },
+    {
+      "name": "Sweater",
+      "createdAt": 1629816205437,
+      "id": 2
+    },
+    {
+      "name": "Tee",
+      "createdAt": 1629816217156,
+      "id": 3
+    },
+    {
+      "name": "Pant",
+      "createdAt": 1629816236781,
+      "id": 4
+    }
+  ],
+  "colors": [
+    {
+      "name": "Yellow",
+      "createdAt": 1629816500941,
+      "id": 1
+    },
+    {
+      "name": "Red",
+      "createdAt": 1629816505176,
+      "id": 2
+    },
+    {
+      "name": "Blue",
+      "createdAt": 1629816514376,
+      "id": 3
+    },
+    {
+      "name": "Pink",
+      "createdAt": 1629816525772,
+      "id": 4
+    },
+    {
+      "name": "Black",
+      "createdAt": 1629816536382,
+      "id": 5
+    },
+    {
+      "name": "Violet",
+      "createdAt": 1629816544190,
+      "id": 6
+    },
+    {
+      "name": "Orange",
+      "createdAt": 1629816569316,
+      "id": 7
+    },
+    {
+      "name": "White",
+      "createdAt": 1629816576043,
+      "id": 8
     }
   ],
   "users": [],
