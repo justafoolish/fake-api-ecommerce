@@ -24,7 +24,7 @@ POST http://localhost/api/colors
 Content-Type: application/json
 
 {
-    "name": "Yellow"    
+    "name": "White"    
 }
 
 ################################

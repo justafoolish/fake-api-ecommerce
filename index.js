@@ -1,4 +1,5 @@
 const jsonServer = require("json-server");
+const queryString = require("query-string");
 const server = jsonServer.create();
 const router = jsonServer.router("db.json");
 const middlewares = jsonServer.defaults();
@@ -21,6 +22,23 @@ server.use((req, res, next) => {
   // Continue to JSON Server router
   next();
 });
+//custom output
+router.render = (req, res) => {
+  const headers = res.getHeaders()
+  const totalCountHeader = headers['x-total-count']
+  if (req.method === 'GET' && totalCountHeader) {
+    const queryParams = queryString.parse(req._parsedUrl.query)
+    const result = {
+      data: res.locals.data,
+      pagination: {
+        page: Number.parseInt(queryParams._page) || 1, 
+        limit: Number.parseInt(queryParams._limit) || 8, 
+        totals: Number.parseInt(totalCountHeader)}
+    }
+    return res.jsonp(result)
+  }
+  res.jsonp(res.locals.data);
+};
 
 // Use default router
 const PORT = process.env.PORT || 80;
